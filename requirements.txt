@@ -1,0 +1,11 @@
+openai-whisper
+sounddevice
+soundfile
+numpy
+google-generativeai
+python-dotenv
+gtts
+mcp
+sqlite3
+sentence-transformers
+asyncio

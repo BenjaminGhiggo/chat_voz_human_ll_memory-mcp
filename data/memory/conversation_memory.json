@@ -1,0 +1,27 @@
+{
+  "last_updated": "2025-09-15T20:36:45.626312",
+  "total_exchanges": 4,
+  "max_history_length": 10,
+  "conversation_history": [
+    {
+      "timestamp": "2025-09-15T18:20:56.112200",
+      "user": "Mi nombre es Ana y soy estudiante",
+      "assistant": "¡Hola Ana! Un gusto conocerte. ¿En qué puedo ayudarte hoy? ¿Necesitas información para tus estudios, tienes alguna duda o simplemente quieres charlar?"
+    },
+    {
+      "timestamp": "2025-09-15T18:20:57.164549",
+      "user": "Estudio ingeniería de sistemas",
+      "assistant": "¡Qué interesante, Ana! Ingeniería de Sistemas. Es una carrera con mucho futuro. ¿En qué área te estás especializando o te gustaría especializarte dentro de la ingeniería de sistemas? ¿Hay algo específico relacionado con tus estudios de ingeniería que te preocupe o en lo que te pueda ayudar?"
+    },
+    {
+      "timestamp": "2025-09-15T18:21:00.081680",
+      "user": "¿Cuál es mi nombre?",
+      "assistant": "Tu nombre es Ana. Me lo dijiste al principio de la conversación."
+    },
+    {
+      "timestamp": "2025-09-15T18:29:22.161138",
+      "user": "Hola, ¿qué tal?",
+      "assistant": "¡Hola Ana! Qué bueno que sigues por aquí. ¿En qué puedo ayudarte hoy? ¿Sigues con alguna duda sobre ingeniería de sistemas o tienes otra cosa en mente?"
+    }
+  ]
+}
